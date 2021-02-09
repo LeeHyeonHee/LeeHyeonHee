@@ -19,8 +19,9 @@
 
 
 :rocket: Ability :rocket: 
-    - Node.js를 주로 공부하고 있으며 직전 회사에서 Spring Framework와 Ext.js(센차 프레임워크)를 활용하여 풀스택 개발자로 재직 하였습니다. 
-      현재는 golang, React.js를 공부하고 있고 Blockchain (Hyperledger fabric)을 공부하고 있습니다. 
+   - Node.js를 주로 공부하고 있으며 직전 회사에서 Spring Framework와 Ext.js(센차 프레임워크)를 활용하여 
+     풀스택 개발자로 재직 하였습니다. 
+     현재는 golang, React.js를 공부하고 있고 Blockchain (Hyperledger fabric)을 공부하고 있습니다. 
 
 <!--
 **LeeHyeonHee/LeeHyeonHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,8 +38,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="https://img.shields.io/badge/?style=flat-square&logo=FutureLearn&logoColor=white"/></a>&nbsp 
 
 
 
