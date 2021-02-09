@@ -15,7 +15,7 @@
       - GML (Vietnam)
       - NHDV (Vietnam) 
       - and so on .. I has experience of participating in various projects.
-  It is a program production project of the WEB version of the CATOS system.
+      - It is a program production project of the WEB version of the CATOS system.
 
 
 :rocket: Ability :rocket: 
