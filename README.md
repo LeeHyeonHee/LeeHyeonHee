@@ -14,14 +14,14 @@
       - GCT (Korea 군산)
       - GML (Vietnam)
       - NHDV (Vietnam) 
-      - and so on .. I has experience of participating in various projects. 
-        It is a program production project of the WEB version of the CATOS system.
+      - and so on .. I has experience of participating in various projects.
+  It is a program production project of the WEB version of the CATOS system.
 
 
 :rocket: Ability :rocket: 
-   - Node.js를 주로 공부하고 있으며 직전 회사에서 Spring Framework와 Ext.js(센차 프레임워크)를 활용하여 
-     풀스택 개발자로 재직 하였습니다. 
-     현재는 golang, React.js를 공부하고 있고 Blockchain (Hyperledger fabric)을 공부하고 있습니다. 
+   - Node.js를 주로 공부하고 있습니다.
+   - 직전 회사에서 Spring Framework와 Ext.js(센차 프레임워크)를 활용하여 풀스택 개발자로 재직 하였습니다. 
+   - 현재는 golang, React.js를 공부하고 있고 Blockchain (Hyperledger fabric)을 공부하고 있습니다. 
 
 <!--
 **LeeHyeonHee/LeeHyeonHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
